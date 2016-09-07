@@ -1,0 +1,10 @@
+Package: grindr
+Type: Package
+Title: Coffee grinder statistics
+Version: 0.0.1
+Author: Einar Holsbø <einar@cs.uit.no>
+Maintainer: Einar Holsbø <einar@cs.uit.no>
+Description: A data set of coffee grinder statistics. See ?grinder
+License: MIT + file LICENSE
+LazyData: TRUE
+RoxygenNote: 5.0.1
