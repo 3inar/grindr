@@ -9,6 +9,8 @@ This package contains the following data set:
 ### use:
 ```{r}
 devtools::install_github("3inar/grindr")
+
+library(grindr)
 data(grinder)
 head(grinder)
 ```
